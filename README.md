@@ -1,3 +1,3 @@
 # parts
 
-Attempt to make a flexible, function-based, tracker-like interface for overtone.  For my own amusement.
+Attempt to make a flexible, function-based, tracker-like interface for overtone.  Mainly for my own amusement.
